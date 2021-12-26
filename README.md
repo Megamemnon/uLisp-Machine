@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/3956352/145697385-0c8a35ba-d28c-41e0-b04e-0f63ff10d5e0.png)
 
 
-Forked from https://github.com/technoblogy/ulisp-arm. For more information on uLisp see http://www.ulisp.com/. uLisp is available under the MIT License.
+Originally forked from https://github.com/technoblogy/ulisp-arm. For more information on uLisp see http://www.ulisp.com/. uLisp is available under the MIT License. However, this project is not intended to feed back into uLisp, so it's been recreated as a standalone project, not a fork.
 
 Also uses code from PJRC's USBHost_t36.h which is in the Public Domain.
 
